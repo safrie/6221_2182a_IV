@@ -1,0 +1,1 @@
+This project is the basis for the Keithley stack part of the Probe Station project. It is complete and functions but has a few bugs remaining with clearing the buffer. As a result, users might need to restart the program and Python kernel between measurements.
